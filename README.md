@@ -10,10 +10,16 @@ The custom function should work at that point.
 
 
 
+
+
 SimpInt = Simple Interest
+
+
 
 Arguments
 
 principal = Principal Amount
+
 interestRate = Annual rate of interest
+
 timePeriod = Time in years
