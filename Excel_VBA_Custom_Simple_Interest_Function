@@ -1,0 +1,5 @@
+Function SimpInt(principal As Double, interestRate As Double, timePeriod As Double) As Double
+    ' SimpleInt function takes principal amount, interest rate, and time period in years as input to compute simple interest
+    
+    SimpInt = principal * interestRate * timePeriod
+End Function
